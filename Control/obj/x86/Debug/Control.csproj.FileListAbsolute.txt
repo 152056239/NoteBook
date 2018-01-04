@@ -1,0 +1,7 @@
+D:\All resource\C#\NoteBook_01\Control\bin\Debug\Control.exe
+D:\All resource\C#\NoteBook_01\Control\bin\Debug\Control.pdb
+D:\All resource\C#\NoteBook_01\Control\bin\Debug\Interface.exe
+D:\All resource\C#\NoteBook_01\Control\bin\Debug\Interface.pdb
+D:\All resource\C#\NoteBook_01\Control\obj\x86\Debug\Control.csprojResolveAssemblyReference.cache
+D:\All resource\C#\NoteBook_01\Control\obj\x86\Debug\Control.exe
+D:\All resource\C#\NoteBook_01\Control\obj\x86\Debug\Control.pdb
