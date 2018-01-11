@@ -1,4 +1,0 @@
-D:\All resource\C#\NoteBook_01\Interface\bin\Debug\Interface.exe
-D:\All resource\C#\NoteBook_01\Interface\bin\Debug\Interface.pdb
-D:\All resource\C#\NoteBook_01\Interface\obj\x86\Debug\Interface.exe
-D:\All resource\C#\NoteBook_01\Interface\obj\x86\Debug\Interface.pdb

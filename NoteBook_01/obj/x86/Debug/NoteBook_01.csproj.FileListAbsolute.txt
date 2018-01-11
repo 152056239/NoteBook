@@ -1,9 +1,0 @@
-D:\All resource\C#\NoteBook_01\NoteBook_01\bin\Debug\NoteBook_01.exe
-D:\All resource\C#\NoteBook_01\NoteBook_01\bin\Debug\NoteBook_01.pdb
-D:\All resource\C#\NoteBook_01\NoteBook_01\obj\x86\Debug\NoteBook_01.exe
-D:\All resource\C#\NoteBook_01\NoteBook_01\obj\x86\Debug\NoteBook_01.pdb
-D:\All resource\C#\NoteBook_01\NoteBook_01\obj\x86\Debug\NoteBook_01.csprojResolveAssemblyReference.cache
-D:\All resource\C#\NoteBook_01\NoteBook_01\bin\Debug\Control.exe
-D:\All resource\C#\NoteBook_01\NoteBook_01\bin\Debug\Interface.exe
-D:\All resource\C#\NoteBook_01\NoteBook_01\bin\Debug\Control.pdb
-D:\All resource\C#\NoteBook_01\NoteBook_01\bin\Debug\Interface.pdb
