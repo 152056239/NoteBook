@@ -1,0 +1,12 @@
+F:\C#\workspace\NoteBook2\NoteBook2\bin\Debug\NoteBook2.exe.config
+F:\C#\workspace\NoteBook2\NoteBook2\obj\Debug\NoteBook2.csprojResolveAssemblyReference.cache
+F:\C#\workspace\NoteBook2\NoteBook2\bin\Debug\NoteBook2.exe
+F:\C#\workspace\NoteBook2\NoteBook2\bin\Debug\NoteBook2.pdb
+F:\C#\workspace\NoteBook2\NoteBook2\obj\Debug\NoteBook2.exe
+F:\C#\workspace\NoteBook2\NoteBook2\obj\Debug\NoteBook2.pdb
+D:\adb\C#\workspace\NoteBook2\NoteBook2\bin\Debug\NoteBook2.exe.config
+D:\adb\C#\workspace\NoteBook2\NoteBook2\obj\Debug\NoteBook2.exe
+D:\adb\C#\workspace\NoteBook2\NoteBook2\obj\Debug\NoteBook2.pdb
+D:\adb\C#\workspace\NoteBook2\NoteBook2\bin\Debug\NoteBook2.exe
+D:\adb\C#\workspace\NoteBook2\NoteBook2\bin\Debug\NoteBook2.pdb
+D:\adb\C#\workspace\NoteBook2\NoteBook2\obj\Debug\NoteBook2.csprojResolveAssemblyReference.cache
